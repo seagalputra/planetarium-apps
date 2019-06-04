@@ -1,2 +1,3 @@
-# planetarium-apps
-Let's discover outer space!
+# Planetarium Apps
+
+Let's discover outer space! :stars:
