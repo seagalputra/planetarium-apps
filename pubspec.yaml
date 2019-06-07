@@ -42,6 +42,7 @@ flutter:
 
   assets:
     - assets/images/earth.jpg
+    - assets/images/mars.jpg
   # To add assets to your application, add an assets section, like this:
   # assets:
   #  - images/a_dot_burr.jpeg
