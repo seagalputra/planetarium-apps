@@ -5,6 +5,7 @@ Let's discover outer space! :stars:
 
 ---
 This apps is for Online Study Group Assignment from Eudeka
-'''
+
+```
 OSG04054 - Dwiferdio Seagal Putra
-'''
+```
